@@ -1,0 +1,7 @@
+Pillow
+ImageHash
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
